@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Shannon John Cantos</h1>
-<h3 align="center">I'm an aspiring fullstack engineer on a mission to create impactful and innovative web applications.</h3>
+<h3 align="center">I'm an aspiring fullstack engineer on a journey to create impactful and innovative web applications, and explore the world of computer science where I'm captivated on to dive into its boundless possibilities. </h3>
 
 
 
