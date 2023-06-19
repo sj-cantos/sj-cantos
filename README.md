@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shannon John Cantos. an aspiring Full Stack Engineer passionate about creating innovative and user-centric web applications.  
+Hi, I'm Shannon John Cantos. an aspiring full-stack engineer passionate about creating innovative and user-centric web applications.  
 
 
 # 💻 Tech Stack:
