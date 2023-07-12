@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shannon John Cantos. an aspiring full-stack engineer passionate about creating innovative and user-centric web applications. Ever since I discovered my fascination for computer science, I have been driven to explore the world of software development and make a positive impact through it. Throughout my learning journey, I have honed my skills in various programming languages and frameworks, including but not limited to Node.js, Express.js, React.js, Spring Boot, and Python. I believe in staying up-to-date with the latest industry trends and continuously learning new technologies to enhance my abilities as a student developer.  
+Hi, I'm Shannon John Cantos. an aspiring full-stack engineer passionate about creating innovative and user-centric web applications. Ever since I discovered my fascination for computer science, I have been driven to explore the world of software development and make a positive impact through it. Throughout my learning journey, I have honed my skills in various programming languages and frameworks, including but not limited to Node.js, Express.js, React.js, Spring Boot, and Python. I believe in staying up-to-date with the latest industry trends and continuously learning new technologies to enhance my abilities as a student aspiring developer.  
 
 
 # 💻 Tech Stack:
