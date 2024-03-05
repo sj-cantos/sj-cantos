@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shannon John Cantos</h1>
-<h3 align="center">I'm Shannon, a passionate computer science student and a software developer with a focus on creating web applications primarily using the language of JavaScript and Python. I delve into server-side development with Node.js, and I also harness the strength of Spring Boot for building robust and scalable backend solutions.</h3>
+<h3 align="center">I'm Shannon, a passionate computer science student and a software developer with a focus on creating web applications primarily using the language of JavaScript and Java. I delve into server-side development with Node.js, and I also harness the strength of Spring Boot for building robust and scalable backend solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
